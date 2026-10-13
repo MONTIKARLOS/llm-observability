@@ -190,7 +190,7 @@ The [`@observe()` decorator](https://langfuse.com/docs/sdk/python/decorators) ma
 > Not using OpenAI? Visit [our documentation](https://langfuse.com/docs/get-started#log-your-first-llm-call-to-langfuse) to learn how to log other models and frameworks.
 
 ```bash
-pip install langfuse openai
+pip install langfuse openai 
 ```
 
 ```bash filename=".env"
@@ -382,7 +382,7 @@ By default, Langfuse automatically reports basic usage statistics of self-hosted
 This helps us to:
 
 1. Understand how Langfuse is used and improve the most relevant features.
-2. Track overall usage for internal and external (e.g. fundraising) reporting.
+2. Track overall usage for internal and external (e.g. fundraising) reporting.\Monti   
 
 The telemetry does not include raw traces, prompts, observations, scores, or dataset contents. We document the exact fields that are collected, where they are sent, and the implementation reference in our [telemetry docs](https://langfuse.com/self-hosting/security/telemetry).
 
