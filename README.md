@@ -131,7 +131,7 @@ After changing daemon logging defaults, restart Docker and recreate existing con
 > [!TIP]
 > **Self-hosting Langfuse?** Subscribe to the [self-hosting update list](https://langfuse.com/self-hosting#subscribe) to get an email about important features and new releases for open source Langfuse — self-hosting updates only, no marketing.
 
-## 🔌 Integrations
+### 🔌 Integrations
 
 <img width="2400" alt="integrations" src="https://github.com/user-attachments/assets/b85c9a45-68f0-4f76-b545-0e8632abef9f" />
 
