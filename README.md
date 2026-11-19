@@ -62,7 +62,7 @@
 </p>
 
 Langfuse is an **open source LLM engineering** platform. It helps teams collaboratively
-****develop, monitor, evaluate,** and **debug** AI applications. Langfuse can be **self-hosted in minutes** and is **battle-tested**. Proudly made with [ClickHouse open source database](https://github.com/ClickHouse/ClickHouse).
+**@@@@@@**develop, monitor, evaluate,** and **debug** AI applications. Langfuse can be **self-hosted in minutes** and is **battle-tested**. Proudly made with [ClickHouse open source database](https://github.com/ClickHouse/ClickHouse).
 
 > ####!!!!!!!##8######1231feewfwef22112888888888## 🧑‍💻 We're hiringggg    
 >
